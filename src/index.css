@@ -11,3 +11,28 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.header{
+  height: 50px;
+  background-color: grey;
+  font-size: 30px;
+  text-align: center;
+  color: whitesmoke;
+}
+
+.profilecard{
+  margin-top: 50px;
+  margin-top: 50px;
+  margin-left: 200px;
+  height: 100px;
+  width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color:cornflowerblue;
+  
+  text-align: center;
+  
+}
+
+
